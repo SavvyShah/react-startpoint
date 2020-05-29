@@ -1,0 +1,16 @@
+{
+  "short_name": "GRUKARYA",
+  "name": "GRUKARYA",
+  "description": "Your assistant for easy assignments and home work",
+  "icons": [],
+  "start_url": "/?source=pwa",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#6400C8",
+  "main.js": "main.7fa70a6c3f0eb96e7f73.bundle.js",
+  "runtime.js": "runtime.450188531333f2e1608b.bundle.js",
+  "vendor.js": "vendor.930f8bb85b61764851cb.bundle.js",
+  "index.html": "index.html",
+  "vendor.930f8bb85b61764851cb.bundle.js.LICENSE.txt": "vendor.930f8bb85b61764851cb.bundle.js.LICENSE.txt"
+}
