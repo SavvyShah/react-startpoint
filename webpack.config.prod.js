@@ -41,9 +41,8 @@ module.exports = {
         }),
         new CleanWebpackPlugin({
             cleanOnceBeforeBuildPatterns: [
-                '**/*', // Checkout glob pattern docs and https://globster.xyz
-                '!favicon.ico',
-                '!404.html',
+              // Checkout glob pattern docs and https://globster.xyz
+              '**/*',
             ],
         }),
     ],
